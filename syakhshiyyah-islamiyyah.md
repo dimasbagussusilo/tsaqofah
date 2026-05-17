@@ -5,7 +5,6 @@
 - **Versi:** 1.0
 - **Tanggal:** 17 Mei 2026
 - **Status:** Draft
-- **Deskripsi Perubahan:** Mengubah konten dan struktur dokumen dengan format .md.
 
 ---
 

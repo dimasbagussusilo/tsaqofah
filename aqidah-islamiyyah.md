@@ -2,7 +2,7 @@
 
 **Informasi Dokumen:**
 - **Judul:** Materi Aqidah Islamiyyah
-- **Versi:** 1.0
+- **Versi:** 1.1
 - **Status:** Draft
 
 ---
@@ -92,12 +92,15 @@ Keimanan terhadap hari akhir menempati posisi yang sangat krusial dalam pembentu
 
 <div dir="rtl" style="font-size: 2.6em; text-align: right; padding: 10px 0; font-family: 'Amiri', 'Traditional Arabic', serif;">
 قُلْ يُحْيِيهَا الَّذِي أَنشَأَهَا أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
-...
-قُلْ إِنَّ الْأَوَّلِينَ وَالْآخِرِينَ 
-لَمَجْمُوعُونَ إِلَىٰ مِيقَاتِ يَوْمٍ مَّعْلُومٍ
 </div>
 
-*"Katakanlah: 'Ia (tulang belulang yang hancur) akan dihidupkan oleh Tuhan yang menciptakannya kali yang pertama... Katakanlah: Sesungguhnya orang-orang yang terdahulu dan orang-orang yang terkemudian, benar-benar akan dikumpulkan di waktu tertentu pada hari yang dikenal."* (TQS. Yaasin: 79 & Al-Waqi'ah: 49-50).
+*"Katakanlah: 'Ia (tulang belulang yang hancur) akan dihidupkan oleh Tuhan yang menciptakannya kali yang pertama."* (TQS. Yaasin: 79).
+
+<div dir="rtl" style="font-size: 2.6em; text-align: right; padding: 10px 0; font-family: 'Amiri', 'Traditional Arabic', serif;">
+قُلْ إِنَّ الْأَوَّلِينَ وَالْآخِرِينَ لَمَجْمُوعُونَ إِلَىٰ مِيقَاتِ يَوْمٍ مَّعْلُومٍ
+</div>
+
+*"Katakanlah: Sesungguhnya orang-orang yang terdahulu dan orang-orang yang terkemudian, benar-benar akan dikumpulkan di waktu tertentu pada hari yang dikenal."* (TQS. Al-Waqi'ah: 49-50).
 
 - **Pengaruh Keimanan terhadap Hari Kiamat dalam Kehidupan**
   Keimanan pada Hari Kiamat memberikan dampak (*atsar*) yang sangat dahsyat bagi kehidupan dunia seorang Muslim:

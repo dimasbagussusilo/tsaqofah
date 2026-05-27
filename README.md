@@ -24,9 +24,13 @@ Repositori ini disediakan sebagai **referensi opsional** bagi narasumber untuk m
 
 ## Daftar Materi
 
-| File | Topik |
-|------|-------|
-| `syakhshiyyah-islamiyyah.md` | Syakhshiyyah Islamiyyah (Kepribadian Islam) |
+| Topik                                       | Download PDF |
+|---------------------------------------------|--------------|
+| Syakhshiyyah Islamiyyah (Kepribadian Islam) | [Download](https://github.com/dimasbagussusilo/tsaqofah/raw/main/pdf/syakhshiyyah-islamiyyah.pdf) |
+| Aqidah Islamiyyah (Akidah Islam)            | [Download](https://github.com/dimasbagussusilo/tsaqofah/raw/main/pdf/akidah-islamiyyah.pdf) |
+| Syariah Islamiyyah (Syariat Islam)          | [Download](https://github.com/dimasbagussusilo/tsaqofah/raw/main/pdf/syariah-islamiyyah.pdf) |
+| Dakwah Islamiyyah (Dakwah Islam)            | [Download](https://github.com/dimasbagussusilo/tsaqofah/raw/main/pdf/dakwah-islamiyyah.pdf) |
+| Halqah CP (Halqah Calon Pelajar)            | [Download](https://github.com/dimasbagussusilo/tsaqofah/raw/main/pdf/halqah-cp.pdf) |
 
 ---
 

@@ -1,7 +1,7 @@
 # PANDUAN & PEMETAAN PERTEMUAN KAJIAN MINGGUAN
-## Aqidah Islamiyyah (4 Pertemuan Berseri)
+## Seri Teologi: Aqidah Islamiyyah (4 Pertemuan Berseri)
 
-Dokumen ini berfungsi sebagai silabus taktis sekaligus panduan kontekstual bagi **Narasumber** dan **Master of Ceremony (MC)** agar seluruh rangkaian kajian berjalan runut, mendalam, profesional, dan sepenuhnya terikat pada koridor dokumen rujukan (*Aqidah Islamiyyah* & *FAQ*).
+*Catatan: Seri ini merupakan kelanjutan langsung dari seri "Syakhshiyyah Islamiyyah".*
 
 ---
 
@@ -13,9 +13,9 @@ Jamaah mampu memahami problem eksistensial terbesar dalam dirinya secara rasiona
 ### 2. Rundown Waktu & Aktivitas Spesifik
 * **00:00 - 05:00 (Pembukaan oleh MC):** Membuka acara, mengondisikan saf, membacakan tata tertib kajian.
 * **05:00 - 10:00 (Tilawah Al-Qur'an):** Pembacaan QS. Al-Baqarah: 28 atau ayat senada.
-* **10:00 - 20:00 (Hook, Pengantar MC & Isu Terkini):**
-  * *Konteks Isu Terkini:* MC memantik jamaah dengan fenomena aktual (misal: maraknya kasus depresi, *hustle culture* yang membuat stres, atau krisis makna hidup di kalangan pemuda modern).
-  * Narasumber menanggapi fenomena ini dengan menyatakan bahwa akar masalahnya adalah kegagalan menjawab 3 pertanyaan mendasar kehidupan, yang akan dibahas hari ini.
+* **10:00 - 20:00 (SESI REFRESHMENT KHUSUS & ISU TERKINI):**
+  * *Keterkaitan Materi (Review Syakhshiyyah):* MC mengingatkan, *"Selama 2 pekan ke belakang kita telah membahas Syakhshiyyah Islamiyyah. Syarat mutlak untuk membentuk kepribadian tersebut adalah menjadikan Aqidah Islam sebagai landasan (Aqliyyah & Nafsiyyah). Nah, mulai hari ini kita akan membedah fondasi utama itu: Aqidah Islamiyyah."*
+  * *Konteks Isu Terkini:* MC memantik jamaah dengan fenomena aktual (misal: krisis makna hidup atau *hustle culture* yang membuat stres). Narasumber menanggapi bahwa akar masalah stres modern adalah kegagalan menjawab 3 pertanyaan mendasar kehidupan (Simpul Besar).
 * **20:00 - 60:00 (Materi Inti oleh Narasumber):**
   * Membedah konsep *Al-'Uqdah al-Kubrâ* (Simpul Besar) dan 3 pertanyaan mendasar manusia.
   * Memaparkan Jawaban Islam: Keterkaitan antara Sebelum Dunia, Di Dunia (Syariat), dan Sesudah Dunia.
@@ -64,11 +64,11 @@ Jamaah mampu membandingkan Islam dengan ideologi-ideologi besar dunia secara ilm
 * **05:00 - 10:00 (Tilawah Al-Qur'an):** Pembacaan QS. Al-Maidah: 3 atau QS. Ali 'Imran: 19.
 * **10:00 - 20:00 (SESI REFRESHMENT & ISU TERKINI):**
   * *Tugas MC/Narasumber:* Mengulas terminologi *Ruhiyyah* dan *Siyasiyyah*.
-  * *Kontekstualisasi Isu Terkini:* MC/Narasumber mengangkat isu global (misal: ketimpangan ekonomi global, kegagalan sistem demokrasi-kapitalis di suatu negara, atau penindasan yang terjadi akibat kebijakan imperialisme). Narasumber merefleksikan bahwa kerusakan ini lahir dari aturan manusia (siyasiyyah sekuler), dan hari ini akan dibahas alternatif sistemik yang sahih, yaitu Islam sebagai sebuah *Mabda'* (Ideologi).
+  * *Kontekstualisasi Isu Terkini:* Mengangkat isu global (misal: ketimpangan ekonomi global akibat kapitalisme). Narasumber merefleksikan bahwa hari ini akan dibahas alternatif sistemik yang sahih, yaitu Islam sebagai sebuah *Mabda'* (Ideologi).
 * **20:00 - 60:00 (Materi Inti oleh Narasumber):**
   * Membedah Pengertian *Mabda'* (Ideologi): *Fikrah* dan *Thariqah*.
   * Menjelaskan Kedudukan Islam sebagai Mabda'.
-  * Perbandingan Global (Islam vs Kapitalisme vs Komunisme) melalui 3 parameter (Asas, Standar Perbuatan, Pandangan terhadap Masyarakat).
+  * Perbandingan Global (Islam vs Kapitalisme vs Komunisme).
   * Membuktikan Kebenaran Mabda' Islam (*Qiyadah Fikriyyah*) dan kebatilan Komunisme/Kapitalisme.
 * **60:00 - 80:00 (Sesi Q&A / Tanya Jawab):** Diskusi perbandingan sistem hidup.
 * **80:00 - 85:00 (Takeaway oleh Narasumber):** Menegaskan larangan mengadopsi cara pandang asing.
@@ -88,8 +88,8 @@ Jamaah memiliki *tashdiq al-jazim* terhadap Hari Kiamat dan menjadikannya sebaga
 * **00:00 - 05:00 (Pembukaan oleh MC):** Apresiasi atas konsistensi jamaah.
 * **05:00 - 10:00 (Tilawah Al-Qur'an):** Pembacaan QS. An-Nisa: 136 atau Yaasin: 79.
 * **10:00 - 20:00 (SESI REFRESHMENT & ISU TERKINI):**
-  * *Tugas MC/Narasumber:* Mengulas pilar-pilar *Mabda'* Islam (Fikrah, Thariqah, Halal-Haram).
-  * *Kontekstualisasi Isu Terkini:* MC/Narasumber mengangkat isu moral (misal: maraknya kejahatan tersembunyi, skandal perselingkuhan/judi online, atau kecurangan hukum yang tidak tersentuh aparat). Narasumber menjelaskan bahwa sistem sehebat apa pun (Mabda' Islam) tidak akan berjalan tanpa adanya kontrol dari dalam diri. Hal ini mengantarkan pada materi pamungkas: Keimanan pada Hari Kiamat.
+  * *Tugas MC/Narasumber:* Mengulas pilar-pilar *Mabda'* Islam.
+  * *Kontekstualisasi Isu Terkini:* Mengangkat isu moral yang luput dari hukum negara. Narasumber menjelaskan sistem sehebat apa pun butuh kontrol internal, yang mengantarkan pada materi: Keimanan pada Hari Kiamat.
 * **20:00 - 60:00 (Materi Inti oleh Narasumber):**
   * Metodologi Keimanan Perkara Gaib: Dalil *Naqli* yang dibuktikan hakikatnya oleh Akal.
   * Membacakan & menafsirkan Dalil-Dalil Qath'i (An-Nisa: 136, Yaasin: 79, Al-Waqi'ah: 49-50).

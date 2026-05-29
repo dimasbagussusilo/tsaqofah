@@ -1,5 +1,4 @@
 # MANAJEMEN KURIKULUM KAJIAN HU
-## (Total 10 Pertemuan Berseri)
 
 Dokumen ini berfungsi sebagai cetak biru (blueprint) garis besar untuk tata laksana waktu, penjadwalan, dan alur kurikulum kajian mingguan.
 

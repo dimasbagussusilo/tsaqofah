@@ -24,7 +24,7 @@ Repositori ini disediakan sebagai **referensi opsional** bagi narasumber untuk m
 
 ## Standar Kurikulum
 
-Seluruh alur materi mengacu pada dokumen kurikulum standar yang tersedia disini  — [DOWNLOAD](https://github.com/dimasbagussusilo/tsaqofah/raw/main/curriculum/curriculum.md).
+Seluruh alur materi mengacu pada dokumen kurikulum standar yang tersedia disini  — [DOWNLOAD](https://github.com/dimasbagussusilo/tsaqofah/raw/main/curriculum/curriculum.pdf).
 
 **Total:** 10 pertemuan berseri dengan pembagian sebagai berikut:
 

@@ -1,4 +1,4 @@
-# Syakhshiyyah Islamiyyah - Nafsiyyah
+# Syakhshiyyah Islamiyyah | Nafsiyyah
 
 ---
 

@@ -1,4 +1,4 @@
-# Syakhshiyyah Islamiyyah - Aqliyyah
+# Syakhshiyyah Islamiyyah | Aqliyyah
 
 ---
 

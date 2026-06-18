@@ -1,4 +1,4 @@
-# Syakhshiyyah Islamiyyah - Syakhshiyyah 
+# Syakhshiyyah Islamiyyah | Syakhshiyyah 
 
 ---
 

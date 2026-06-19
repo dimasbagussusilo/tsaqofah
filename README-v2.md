@@ -30,33 +30,33 @@ Repositori ini disediakan sebagai **referensi opsional** bagi narasumber untuk m
 
 ### 1. Syakhshiyyah Islamiyyah
 
-| Unit | Topik | Materi |
-|:---:|-----------|-----------|
-| 1 | Syakhshiyyah — Fondasi Kepribadian Islam | [PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syakhshiyyah-islamiyyah/unit/syakhshiyyah-islamiyyah-1.pdf) |
-| 2 | Aqliyyah (Pola Pikir) | [PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syakhshiyyah-islamiyyah/unit/syakhshiyyah-islamiyyah-2.pdf) |
-| 3 | Nafsiyyah (Pola Sikap) | [PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syakhshiyyah-islamiyyah/unit/syakhshiyyah-islamiyyah-3.pdf) |
-| 4 | Wujud Utuh Kepribadian Islam | [PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syakhshiyyah-islamiyyah/unit/syakhshiyyah-islamiyyah-4.pdf) |
+| Unit | Topik | Materi                                                                                                                           |
+|:---:|-----------|----------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Syakhshiyyah — Fondasi Kepribadian Islam | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syakhshiyyah-islamiyyah/unit/syakhshiyyah-islamiyyah-1.pdf) |
+| 2 | Aqliyyah (Pola Pikir) | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syakhshiyyah-islamiyyah/unit/syakhshiyyah-islamiyyah-2.pdf) |
+| 3 | Nafsiyyah (Pola Sikap) | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syakhshiyyah-islamiyyah/unit/syakhshiyyah-islamiyyah-3.pdf) |
+| 4 | Wujud Utuh Kepribadian Islam | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syakhshiyyah-islamiyyah/unit/syakhshiyyah-islamiyyah-4.pdf) |
 
 ### 2. Aqidah Islamiyyah
 
-| Unit | Topik | Materi |
-|:---:|-----------|-----------|
-| 1 | Al-'Uqdah al-Kubra | [PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/aqidah-islamiyyah/unit/aqidah-islamiyyah-1.pdf) |
-| 2 | Kesempurnaan Islam (Ruhiyyah & Siyasiyyah) | [PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/aqidah-islamiyyah/unit/aqidah-islamiyyah-2.pdf) |
-| 3 | Al-Mabda' | [PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/aqidah-islamiyyah/unit/aqidah-islamiyyah-3.pdf) |
-| 4 | Keimanan terhadap Hari Kiamat | [PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/aqidah-islamiyyah/unit/aqidah-islamiyyah-4.pdf) |
+| Unit | Topik | Materi                                                                                                               |
+|:---:|-----------|----------------------------------------------------------------------------------------------------------------------|
+| 1 | Al-'Uqdah al-Kubra | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/aqidah-islamiyyah/unit/aqidah-islamiyyah-1.pdf) |
+| 2 | Kesempurnaan Islam (Ruhiyyah & Siyasiyyah) | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/aqidah-islamiyyah/unit/aqidah-islamiyyah-2.pdf) |
+| 3 | Al-Mabda' | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/aqidah-islamiyyah/unit/aqidah-islamiyyah-3.pdf) |
+| 4 | Keimanan terhadap Hari Kiamat | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/aqidah-islamiyyah/unit/aqidah-islamiyyah-4.pdf) |
 
 ### 3. Syariah Islamiyyah
 
-| Unit | Topik                               | Materi |
-|:---:|-------------------------------------|-----------|
-| 1 | Pembahasan tentang al-Hakim         | [PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syariah-islamiyyah/unit/syariah-islamiyyah-1.pdf) |
-| 2 | Keterikatan terhadap Hukum Syara'   | [PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syariah-islamiyyah/unit/syariah-islamiyyah-2.pdf) |
-| 3 | Dalil-Dalil Syara'                  | [PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syariah-islamiyyah/unit/syariah-islamiyyah-3.pdf) |
-| 4 | Miqyas al-A'mal (Standar Perbuatan) | [PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syariah-islamiyyah/unit/syariah-islamiyyah-4.pdf) |
-| 5 | Hukum Syara' dan Maslahat           | [PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syariah-islamiyyah/unit/syariah-islamiyyah-5.pdf) |
-| 6 | Hukum Syara' Tak Berubah            | [PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syariah-islamiyyah/unit/syariah-islamiyyah-6.pdf) |
-| 7 | Hukum Syara'                        | [PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syariah-islamiyyah/unit/syariah-islamiyyah-7.pdf) |
+| Unit | Topik                               | Materi                                                                                                                 |
+|:---:|-------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| 1 | Pembahasan tentang al-Hakim         | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syariah-islamiyyah/unit/syariah-islamiyyah-1.pdf) |
+| 2 | Keterikatan terhadap Hukum Syara'   | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syariah-islamiyyah/unit/syariah-islamiyyah-2.pdf) |
+| 3 | Dalil-Dalil Syara'                  | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syariah-islamiyyah/unit/syariah-islamiyyah-3.pdf) |
+| 4 | Miqyas al-A'mal (Standar Perbuatan) | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syariah-islamiyyah/unit/syariah-islamiyyah-4.pdf) |
+| 5 | Hukum Syara' dan Maslahat           | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syariah-islamiyyah/unit/syariah-islamiyyah-5.pdf) |
+| 6 | Hukum Syara' Tak Berubah            | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syariah-islamiyyah/unit/syariah-islamiyyah-6.pdf) |
+| 7 | Hukum Syara'                        | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syariah-islamiyyah/unit/syariah-islamiyyah-7.pdf) |
 
 ### 4. Dakwah Islamiyyah — 🔜 Menyusul
 

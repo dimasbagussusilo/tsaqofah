@@ -2,7 +2,7 @@
 
 Repositori berisi materi tsaqafah Islamiyyah yang disusun sebagai bahan referensi kelas.
 
-> **Apa yang baru di Versi 2?** Materi kini disusun **per unit (per pertemuan)**. Setiap unit bersifat **mandiri** — satu dokumen sudah memuat *review materi*, *materi utama*, *panduan pelaksanaan kajian*, dan *FAQ*. Urutan adopsi: **Syakhshiyyah → Aqidah → Syariah** (sudah tersedia); **Dakwah** dan **Halqah CP** akan menyusul.
+> **Apa yang baru di Versi 2?** Materi kini disusun **per unit (per pertemuan)**. Setiap unit bersifat **mandiri** — satu dokumen sudah memuat *review materi*, *materi utama*, *panduan pelaksanaan kajian*, dan *FAQ*. Urutan adopsi: **Syakhshiyyah → Aqidah → Syariah** (lengkap); **Dakwah** sedang berjalan; **Halqah CP** akan menyusul.
 
 ---
 
@@ -58,9 +58,13 @@ Repositori ini disediakan sebagai **referensi opsional** bagi narasumber untuk m
 | 6 | Hukum Syara' Tak Berubah            | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syariah-islamiyyah/unit/syariah-islamiyyah-6.pdf) |
 | 7 | Hukum Syara'                        | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/syariah-islamiyyah/unit/syariah-islamiyyah-7.pdf) |
 
-### 4. Dakwah Islamiyyah — 🔜 Menyusul
+### 4. Dakwah Islamiyyah
 
-Materi per unit untuk seri Dakwah Islamiyyah sedang dalam penyusunan.
+| Unit | Topik | Materi |
+|:---:|-----------|-----------|
+| 1 | Al-Qadhiyyah al-Mashiriyyah | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/dakwah-islamiyyah/unit/dakwah-islamiyyah-1.pdf) |
+
+> Unit Dakwah Islamiyyah selanjutnya sedang disusun.
 
 ### 5. Halqah CP — 🔜 Paralel
 
@@ -107,6 +111,7 @@ tsaqofah/
 ├── syariah-islamiyyah/
 │   └── unit/   (unit 1–7, .pdf)
 ├── dakwah-islamiyyah/
+│   └── unit/   (unit 1, .pdf)
 ├── halqah-cp/
 ├── tools/
 │   └── md2pdf/          # konverter Markdown → PDF

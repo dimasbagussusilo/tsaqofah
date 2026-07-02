@@ -60,9 +60,10 @@ Repositori ini disediakan sebagai **referensi opsional** bagi narasumber untuk m
 
 ### 4. Dakwah Islamiyyah
 
-| Unit | Topik | Materi |
-|:---:|-----------|-----------|
-| 1 | Al-Qadhiyyah al-Mashiriyyah | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/dakwah-islamiyyah/unit/dakwah-islamiyyah-1.pdf) |
+| Unit | Topik                       | Materi                                                                                                               |
+|:----:|-----------------------------|----------------------------------------------------------------------------------------------------------------------|
+|  1   | Al-Qadhiyyah al-Mashiriyyah | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/dakwah-islamiyyah/unit/dakwah-islamiyyah-1.pdf) |
+|  2   | Kewajiban Dakwah            | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/dakwah-islamiyyah/unit/dakwah-islamiyyah-2.pdf) |
 
 > Unit Dakwah Islamiyyah selanjutnya sedang disusun.
 

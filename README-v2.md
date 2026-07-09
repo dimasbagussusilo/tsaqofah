@@ -64,6 +64,7 @@ Repositori ini disediakan sebagai **referensi opsional** bagi narasumber untuk m
 |:----:|-----------------------------|----------------------------------------------------------------------------------------------------------------------|
 |  1   | Al-Qadhiyyah al-Mashiriyyah | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/dakwah-islamiyyah/unit/dakwah-islamiyyah-1.pdf) |
 |  2   | Kewajiban Dakwah            | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/dakwah-islamiyyah/unit/dakwah-islamiyyah-2.pdf) |
+|  3   | Kewajiban Mengikuti Thariqah | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/dakwah-islamiyyah/unit/dakwah-islamiyyah-3.pdf) |
 
 > Unit Dakwah Islamiyyah selanjutnya sedang disusun.
 
@@ -112,7 +113,7 @@ tsaqofah/
 ├── syariah-islamiyyah/
 │   └── unit/   (unit 1–7, .pdf)
 ├── dakwah-islamiyyah/
-│   └── unit/   (unit 1, .pdf)
+│   └── unit/   (unit 1–3, .pdf)
 ├── halqah-cp/
 ├── tools/
 │   └── md2pdf/          # konverter Markdown → PDF

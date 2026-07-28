@@ -2,7 +2,7 @@
 
 Repositori berisi materi tsaqafah Islamiyyah yang disusun sebagai bahan referensi kelas.
 
-> **Apa yang baru di Versi 2?** Materi kini disusun **per unit (per pertemuan)**. Setiap unit bersifat **mandiri** — satu dokumen sudah memuat *review materi*, *materi utama*, *panduan pelaksanaan kajian*, dan *FAQ*. Urutan adopsi: **Syakhshiyyah → Aqidah → Syariah** (lengkap); **Dakwah** sedang berjalan; **Halqah CP** akan menyusul.
+> **Apa yang baru di Versi 2?** Materi kini disusun **per unit (per pertemuan)**. Setiap unit bersifat **mandiri** — satu dokumen sudah memuat *review materi*, *materi utama*, *panduan pelaksanaan kajian*, dan *FAQ*. Urutan adopsi: **Syakhshiyyah → Aqidah → Syariah** (lengkap); **Dakwah** dan **Halqah CP** sedang berjalan.
 
 ---
 
@@ -68,9 +68,15 @@ Repositori ini disediakan sebagai **referensi opsional** bagi narasumber untuk m
 
 > Unit Dakwah Islamiyyah selanjutnya sedang disusun.
 
-### 5. Halqah CP — 🔜 Paralel
+### 5. Halqah CP — Paralel
 
-> Halqah CP berjalan **paralel** di minggu yang sama dengan materi utama, tetapi pada **hari yang berbeda**. Materi per unit akan menyusul.
+> Halqah CP berjalan **paralel** di minggu yang sama dengan materi utama, tetapi pada **hari yang berbeda**.
+
+| Unit | Topik                     | Materi                                                                                             |
+|:---:|---------------------------|----------------------------------------------------------------------------------------------------|
+| 1   | Pemahaman Tentang Rezeki  | [Download PDF](https://github.com/dimasbagussusilo/tsaqofah/raw/main/halqah-cp/unit/halqah-cp-1.pdf) |
+
+> Unit Halqah CP selanjutnya sedang disusun.
 
 ---
 
@@ -115,6 +121,7 @@ tsaqofah/
 ├── dakwah-islamiyyah/
 │   └── unit/   (unit 1–3, .pdf)
 ├── halqah-cp/
+│   └── unit/   (unit 1, .pdf)
 ├── tools/
 │   └── md2pdf/          # konverter Markdown → PDF
 ├── README.md            # Versi 1 (model per seri)
